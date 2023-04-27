@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cnpOnlineResponse xmlns="http://www.vantivcnp.com/schema" version="12.1" response="0" message="Valid Format" >
+  <authorizationResponse id="ididid" reportGroup="rtpGrp">
+    <cnpTxnId>146896289142318219</cnpTxnId>
+    <orderId>1</orderId>
+    <response>000</response>
+    <message>Approved</message>
+    <responseTime>2023-07-12T17:41:16.571</responseTime>
+    <authCode>31094</authCode>
+  </authorizationResponse>
+</cnpOnlineResponse>

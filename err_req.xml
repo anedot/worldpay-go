@@ -1,0 +1,27 @@
+<cnpOnlineRequest version="12.1" xmlns="http://www.vantivcnp.com/schema" merchantId="default">
+    <authentication>
+        <user>JoesStore</user>
+        <password>JoeyIsTheBe$t</password>
+    </authentication>
+    <authorization id="ididid" reportGroup="rtpGrp" customerId="12345">
+        <orderId>1</orderId>
+        <amount>1000</amount>
+        <orderSource>ecommerce</orderSource>
+        <billToAddress>
+            <name>Jane Doe</name>
+            <addressLine1>20 Main Streettttttttttttttttttttttttttttttttttttttttttttttttttttt</addressLine1>
+            <city>San Jose</city>
+            <state>CA</state>
+            <zip>95032</zip>
+            <country>USA</country>
+            <email>jdoe@vantiv.com</email>
+            <phone>978-551-0040</phone>
+        </billToAddress>
+        <card>
+            <type>MC</type>
+            <number>5454545454545454</number>
+            <expDate>1112</expDate>
+            <cardValidationNum>123</cardValidationNum>
+        </card>
+    </authorization>
+</cnpOnlineRequest>

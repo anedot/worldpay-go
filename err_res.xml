@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cnpOnlineResponse xmlns="http://www.vantivcnp.com/schema" version="12.1" response="1" message="Error validating xml data against the schema: cvc-maxLength-valid: Value '20 Main Streettttttttttttttttttttttttttttttttttttttttttttttttttttt' with length = '66' is not facet-valid with respect to maxLength '35' for type 'addressLineType'." />

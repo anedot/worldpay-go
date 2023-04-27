@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<litleOnlineResponse xmlns="http://www.litle.com/schema" version="11.4" response="0" message="Valid Format">
+  <saleResponse id="1" reportGroup="ABC Division">
+    <litleTxnId>706634635012762496</litleTxnId>
+    <orderId>5234234</orderId>
+    <response>000</response>
+    <message>Approved</message>
+    <responseTime>2023-07-12T22:13:00.96</responseTime>
+    <authCode>94177</authCode>
+    <networkTransactionId>63225578415568556365452427825</networkTransactionId>
+  </saleResponse>
+</litleOnlineResponse>

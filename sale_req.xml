@@ -1,0 +1,29 @@
+<litleOnlineRequest version="11.4" xmlns="http://www.litle.com/schema" merchantId="100">
+  <authentication>
+    <user>JoesStore</user>
+    <password>JoeyIsTheBe$t</password>
+  </authentication>
+  <sale id="1" reportGroup="ABC Division" customerId="038945">
+    <orderId>5234234</orderId>
+    <amount>40000</amount>
+    <orderSource>3dsAuthenticated</orderSource>
+    <billToAddress>
+      <name>John Smith</name>
+      <addressLine1>100 Main St</addressLine1>
+      <addressLine2>100 Main St</addressLine2>
+      <addressLine3>100 Main St</addressLine3>
+      <city>Boston</city>
+      <state>MA</state>
+      <zip>12345</zip>
+      <country>US</country>
+      <email>jsmith@someaddress.com</email>
+      <phone>555-123-4567</phone>
+    </billToAddress>
+    <card>
+      <type>VI</type>
+      <number>4005550000081019</number>
+      <expDate>1210</expDate>
+      <cardValidationNum>555</cardValidationNum>
+    </card>
+  </sale>
+</litleOnlineRequest>
